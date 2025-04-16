@@ -1,0 +1,36 @@
+Tillage, Death, and Taxes
+
+* game intro is you signing a deed you can't really read, only to reveal a contract:
+You get your own farm! but in exchange, you have a 1 billion$ loan you have to pay off, and the deadline is compounding infinitely. If you miss one, you go out!
+
+The game seems inevitable, but we can DENY it - several endings?
+
+Base:
+Constantly compounding loan. You have 3 minutes per day of hectic gameplay to grow crops and pay it off!!
+You have a deadline every single day of what you have to pay as per your arrangement, and it constantly compounds every day for a month. You win upon reaching last day.
+If you miss a deadline ever (not enough to pay off) you lose.
+If you have enough balance to pay for the day, it's automatically subtracted and you move on with whatever remaining balance.
+
+you have a player that moves around, and two fixed maps: your farm, and the market.
+farm has two main things: a bunch of tiles of land that you can till/plant crops in, and a market sign/indicator thing telling you the market price of all crops
+The market is just a collection of a bunch of stalls with people in it - they all have icons indicating what they want above their heads, talking with each enters bartering mode.
+
+Crops:
+Each crop is planted per tile, and they take about 1-5 secs to grow (indicated by a white bar above them). If the crops need to be watered, the bar will stop and turn red.
+Crops that need to be watered will not continue growing until they have been watered. - when how many is somewhat set but varies per crop
+
+Bartering:
+some system based off of current market price as a baseline?
+
+If time:
+events - certain things happen affecting the price of certain crops
+guarentees - you have to buy X at an X price - have some exploitable thing so u can bankrupt company!
+
+Endings:
+ending 1 - you pay off your loan completely, getting to the end of the month. Freedom!
+ending 2 - you find a cool way to bankrupt the company you owe money to.
+
+bad end - you miss the day's deadline and go bankrupt
+
+
+Other mechanics?
