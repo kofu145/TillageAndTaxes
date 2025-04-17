@@ -1,0 +1,26 @@
+{
+  "Goblin": {
+    "AC": 13,
+    "HP": 7,
+    "Speed": 30,
+    "STR": 8,
+    "DEX": 14,
+    "CON": 10,
+    "INT": 10,
+    "WIS": 8,
+    "CHA": 8,
+    "Skills": [1, 2]
+  },
+  "Rogue": {
+    "AC": 15,
+    "HP": 7,
+    "Speed": 30,
+    "STR": 8,
+    "DEX": 15,
+    "CON": 14,
+    "INT": 10,
+    "WIS": 13,
+    "CHA": 12,
+    "Skills": [1,  2, 3, 4, 5, 6]
+  }
+}

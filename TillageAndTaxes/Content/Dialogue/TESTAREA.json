@@ -1,0 +1,34 @@
+{
+  "DIALOGUE_ONE": {
+    "character": "name",
+    "text": "Hey this is some test content for whatever blablablabla test tesxt",
+    "if": "FLAG",
+    "signal": "RAISE_APPROVAL",
+    "diceroll": 0,
+    "goto": [
+      "DIALOGUE_TWO"
+    ]
+  },
+  "DIALOGUE_TWO": {
+    "character": "name",
+    "text": "lorem ispum dorem iset I don't fucking remember the rest wahoooooooooooooooooooooooooooooooooooooooo",
+    "if": "FLAG",
+    "signal": "RAISE_APPROVAL",
+    "diceroll": 0,
+    "goto": [
+      "DIALOGUE_THREE"
+    ]
+  },
+  "DIALOGUE_THREE": {
+    "character": "name",
+    "text": "testing testing testing testing testing monkeytype warning cannot convert null literal ",
+    "if": "FLAG",
+    "signal": "RAISE_APPROVAL",
+    "diceroll": 0,
+    "goto": [
+    ]
+  },
+  "OPTION_ONE":{
+  },
+  
+}
